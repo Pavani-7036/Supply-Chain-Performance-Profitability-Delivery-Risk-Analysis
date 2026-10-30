@@ -1,12 +1,12 @@
- 📊 Supply Chain & Logistics Analytics Dashboard | Power BI
+## 📊 Supply Chain & Logistics Analytics Dashboard | Power BI
 
- 📌 Project Overview
+## 📌 Project Overview
 
 This project presents an interactive **Supply Chain & Logistics Analytics Dashboard** developed using Microsoft Power BI. The dashboard is designed to analyze supply chain operations, monitor business performance, evaluate shipping efficiency, and identify trends in product profitability and regional sales.
 
 By transforming raw business data into meaningful visualizations, the project demonstrates how Business Intelligence tools can support operational monitoring, performance evaluation, and data-driven decision-making.
 
- 🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Analyze overall supply chain and logistics performance.
 - Monitor key business performance indicators (KPIs).
